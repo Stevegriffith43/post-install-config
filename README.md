@@ -69,3 +69,33 @@ Teams let you organize agents from different departments to address specific iss
 ![image](https://github.com/user-attachments/assets/5cce4755-8f00-4448-9f5a-3e1c4a713211)
 
 <br />
+
+<h3>Allowing anyone to create tickets</h3>
+
+- Admin Panel -> Settings -> User Settings
+- Registration Required: Require registration and login to create tickets
+
+![image](https://github.com/user-attachments/assets/75a46cec-5bd4-456b-9aaa-932affd01a8f)
+
+<br/>
+
+<h3>Configure Agents</h3>
+
+<p>Agents are granted access to the help desk to handle and resolve tickets. When adding an agent, they must be assigned a Primary Department and a Primary Role for handling tickets and tasks within that department. Additionally, agents can be granted Extended Access to other departments and assigned different roles for those areas. These settings can be adjusted in the Access tab of the agent’s profile.</p>
+
+- Admin Panel -> Agents -> Add New
+- Jane
+- John
+
+![image](https://github.com/user-attachments/assets/a42fa7f4-497b-4468-a1fb-a19225482aa9)
+
+<br/>
+
+<h3>Configure Users</h3>
+
+<p>Users are the owners of tickets within the help desk. When a ticket is created, it is linked to the user’s email address found in the User Directory. Users can be added to or removed from the User Directory at any time. However, if a user is deleted, their associated tickets must also be removed.</p>
+
+- Agent Panel -> Users -> Add New
+- Karen
+- Ken
+
