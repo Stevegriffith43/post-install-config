@@ -99,3 +99,34 @@ Teams let you organize agents from different departments to address specific iss
 - Karen
 - Ken
 
+![image](https://github.com/user-attachments/assets/1d2b8faf-8fa3-4623-b784-3f6385390939)
+
+<br />
+
+<h3>Configure SLA(Service Level Agreement)</h3>
+
+<p>The SLA Plan sets the expected timeframe within which the help desk Administrator anticipates tickets will be resolved. Effectively a procedure, ruling, or guideline to complete tickets.</p>
+
+- Admin Panel -> Manage -> SLA
+- Sev-A (1 hour, 24/7)
+- Sev-B (4 hours, 24/7)
+- Sev-C (8 hours, business hours)
+
+![image](https://github.com/user-attachments/assets/ad5e7be0-32d8-4b3f-b3ab-549eddb40ef5)
+
+<br />
+
+<h3>Configure Help Topics</h3>
+
+<P>Help Topics streamline ticket management by ensuring tickets are routed to the correct department and addressed quickly. You can create and nest Help Topics for detailed categorization, such as Human Resources and Human Resources/Payroll. These topics also set ticket configurations, including the SLA and priority level. When creating new tickets, Help Topics must be chosen in both the client portal and for internal tickets, but users are not aware of the specific configurations linked to each Help Topic.</P>
+
+- Configure Help Topics
+- Admin Panel -> Manage -> Help Topics
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+
+![image](https://github.com/user-attachments/assets/f79557ac-ab1b-48fa-a21e-c9001fe1efd4)
+
+<br />
