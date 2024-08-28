@@ -30,20 +30,30 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<h3>Configure Roles</h3>
+
+<p>Roles define the permissions assigned to agents within specific departments they can access. Each role has a specific set of permissions that can be toggled on or off for agents assigned to that role and department. You can create and assign an unlimited number of roles to agents, allowing them access to different departments as needed.</p>
+
+ - Admin Panel -> Agents -> Roles
+ - "Supreme Admin" Role (A role to have complete control of every permission in the system)
+
+ ![image](https://github.com/user-attachments/assets/e00e84dd-5e08-4d93-b510-d8e3a09f9834)
+ ![image](https://github.com/user-attachments/assets/c30648ec-3d57-4058-a6d8-6ca483c6fe15)
+ ![image](https://github.com/user-attachments/assets/44b1eaad-ae2f-48ff-adbf-9b41d7fd449e)
+
 <br />
 
+<h3>Configure Departments</h3>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Since tickets are routed through various departments in the help desk, numerous settings can be configured for each department.
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+- Admin Panel -> Agents -> Departments
+- System Administrators
+
+![image](https://github.com/user-attachments/assets/4a1e3e29-adf0-48e9-9756-3aebeee5f3a2)
+
 <br />
 
 <p>
