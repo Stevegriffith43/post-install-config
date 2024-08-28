@@ -56,10 +56,16 @@ Since tickets are routed through various departments in the help desk, numerous 
 
 <br />
 
+<h3>Configure Teams</h3>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Teams let you organize agents from different departments to address specific issues or users using Help Topics or Ticket Filters. This setup overrides individual department rules, allowing specialized teams to handle specific tasks. To create a team, go to the Agents tab in your Admin Panel, click on Teams, and select Add New Team. You can then add agents and designate a team leader to receive separate alerts and notices.
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+- Admin Panel -> Agents -> Teams
+- Level I Support
+- Level II Support
+
+![image](https://github.com/user-attachments/assets/5cce4755-8f00-4448-9f5a-3e1c4a713211)
+
 <br />
